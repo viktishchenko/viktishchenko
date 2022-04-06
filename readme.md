@@ -1,6 +1,6 @@
 _look like this page is still under construction_
 
-# Hi, I'm Viktor 👋
+# console.log('Hello World! 👋, fellow <coders!> 👩‍💻👨‍💻')
 
 <strong>I am an aspiring Front-end Developer from Russian Federation(Omsk).</strong>
 
