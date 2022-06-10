@@ -4,7 +4,7 @@ _look like this page is still under construction_
 
 <strong>I am an aspiring Front-end Developer from Russian Federation(Omsk).</strong>
 
-[let's learn english →](https://invite.duolingo.com/BDHTZTB5CWWKTMHWWIXNRQOQTA)
+[let's learn english together →](https://invite.duolingo.com/BDHTZTB5CWWKTMHWWIXNRQOQTA)
 
 [cv-link →](https://viktishchenko.github.io/simple-cv/)
 
